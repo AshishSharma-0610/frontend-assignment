@@ -1,5 +1,5 @@
 import React from 'react';
-import PricingSection from '../../assignment/src/components/PricingSection';
+import PricingSection from './components/PricingSection';
 
 function App() {
   return (
